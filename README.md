@@ -32,5 +32,9 @@ ftdi layout_init 0x0008 0x000b
 transport select jtag
 ```
 
-
+Board schematic:
 ![Board schematic](/pic/schematic.png)
+
+Board assembled:
+![Board schematic](/pic/assembled.png)
+
